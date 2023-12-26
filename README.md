@@ -1,5 +1,7 @@
 # Home-Page-IGDTUW
-fonts style- 
+fonts style- https://www.w3schools.com/howto/tryit.asp?font=Press%20Start%202P
+font- family= 'Press Start 2P'
+
 The instructions will be executed in the following order.
 
 kashish 
